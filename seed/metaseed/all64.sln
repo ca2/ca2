@@ -901,6 +901,9 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "handmade", "..\..\..\app-core\appseed\handmade\handmade.vcxproj", "{0899D815-3FB9-409B-9A56-9DDE53BD4472}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "axiswicpng", "..\..\..\app\axis\wicpng\axiswicpng.vcxproj", "{49021738-72FC-43C8-85B0-B9238183AE41}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B39ED2B3-D53A-4077-B957-930979A3577D} = {B39ED2B3-D53A-4077-B957-930979A3577D}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
