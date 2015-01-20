@@ -672,6 +672,7 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gtech", "..\..\..\app-gtech\appseed\gtech\gtech.vcxproj", "{D87537D9-CD7D-4807-9BFA-7A2A2E2F0F09}"
 	ProjectSection(ProjectDependencies) = postProject
 		{A33B9D31-3BFE-496C-A4F5-DC3086D5B27F} = {A33B9D31-3BFE-496C-A4F5-DC3086D5B27F}
+		{6C7004D3-FF6C-4872-8DDC-5D7F44B0BC57} = {6C7004D3-FF6C-4872-8DDC-5D7F44B0BC57}
 	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sensible", "..\..\..\app-gtech\appseed\sensible\sensible.vcxproj", "{B263829E-241C-4E9F-9EC2-626165028D01}"
