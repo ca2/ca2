@@ -892,7 +892,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "axiscrypto", "..\..\..\app\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "design_biteditor", "..\..\..\design\appseed\biteditor\biteditor.vcxproj", "{BB08FC74-F5E0-4753-BCB9-942B73DB8BC7}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "app_core_refactor", "..\..\..\design\appseed\refactor\refactor.vcxproj", "{C78451FA-2013-9999-8F97-4543BB980265}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "design_refactor", "..\..\..\design\appseed\refactor\refactor.vcxproj", "{C78451FA-2013-9999-8F97-4543BB980265}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "design_syllomatter", "..\..\..\design\appseed\syllomatter\syllomatter.vcxproj", "{8A05B3FD-3C90-4279-8680-F5F1D93585D5}"
 EndProject
@@ -5201,8 +5201,8 @@ Global
 		{37D4D3C0-09E3-4644-BAE9-DAF884B46988}.profiler|x64.Build.0 = profiler|x64
 		{37D4D3C0-09E3-4644-BAE9-DAF884B46988}.stage|Win32.ActiveCfg = basis|Win32
 		{37D4D3C0-09E3-4644-BAE9-DAF884B46988}.stage|Win32.Build.0 = basis|Win32
-		{37D4D3C0-09E3-4644-BAE9-DAF884B46988}.stage|x64.ActiveCfg = basis|x64
-		{37D4D3C0-09E3-4644-BAE9-DAF884B46988}.stage|x64.Build.0 = basis|x64
+		{37D4D3C0-09E3-4644-BAE9-DAF884B46988}.stage|x64.ActiveCfg = stage|x64
+		{37D4D3C0-09E3-4644-BAE9-DAF884B46988}.stage|x64.Build.0 = stage|x64
 		{37D4D3C0-09E3-4644-BAE9-DAF884B46988}.static_basis|Win32.ActiveCfg = basis|Win32
 		{37D4D3C0-09E3-4644-BAE9-DAF884B46988}.static_basis|Win32.Build.0 = basis|Win32
 		{37D4D3C0-09E3-4644-BAE9-DAF884B46988}.static_basis|x64.ActiveCfg = basis|x64
@@ -5229,8 +5229,8 @@ Global
 		{A2758412-B6A6-48B1-B7F5-AD4AEE7FF2CF}.profiler|x64.Build.0 = profiler|x64
 		{A2758412-B6A6-48B1-B7F5-AD4AEE7FF2CF}.stage|Win32.ActiveCfg = basis|Win32
 		{A2758412-B6A6-48B1-B7F5-AD4AEE7FF2CF}.stage|Win32.Build.0 = basis|Win32
-		{A2758412-B6A6-48B1-B7F5-AD4AEE7FF2CF}.stage|x64.ActiveCfg = basis|x64
-		{A2758412-B6A6-48B1-B7F5-AD4AEE7FF2CF}.stage|x64.Build.0 = basis|x64
+		{A2758412-B6A6-48B1-B7F5-AD4AEE7FF2CF}.stage|x64.ActiveCfg = stage|x64
+		{A2758412-B6A6-48B1-B7F5-AD4AEE7FF2CF}.stage|x64.Build.0 = stage|x64
 		{A2758412-B6A6-48B1-B7F5-AD4AEE7FF2CF}.static_basis|Win32.ActiveCfg = basis|Win32
 		{A2758412-B6A6-48B1-B7F5-AD4AEE7FF2CF}.static_basis|Win32.Build.0 = basis|Win32
 		{A2758412-B6A6-48B1-B7F5-AD4AEE7FF2CF}.static_basis|x64.ActiveCfg = basis|x64
