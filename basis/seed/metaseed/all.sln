@@ -650,16 +650,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "aqua", "..\..\..\app\appsee
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gcom", "..\..\..\app-core\appseed\gcom\gcom.vcxproj", "{F30BD15A-0EB5-4FA6-88D3-3B4604A41B4E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "app_core_tetris", "..\..\..\app-core\appseed\tetris\tetris.vcxproj", "{84775115-0204-2204-2411-201411249919}"
-	ProjectSection(ProjectDependencies) = postProject
-		{19841115-1984-0411-1977-021977151984} = {19841115-1984-0411-1977-021977151984}
-		{3DDD6C31-218E-4979-B095-8AF22563D9C1} = {3DDD6C31-218E-4979-B095-8AF22563D9C1}
-		{1AB44F85-C63D-4F5E-BB76-B416DC4DA2CB} = {1AB44F85-C63D-4F5E-BB76-B416DC4DA2CB}
-		{9A5FBFB1-76E6-4F7E-933A-328C1EEC95AF} = {9A5FBFB1-76E6-4F7E-933A-328C1EEC95AF}
-		{6C7004D3-FF6C-4872-8DDC-5D7F44B0BC57} = {6C7004D3-FF6C-4872-8DDC-5D7F44B0BC57}
-		{C7AFCEFA-3079-4B23-8F97-4543BB980265} = {C7AFCEFA-3079-4B23-8F97-4543BB980265}
-	EndProjectSection
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "data", "..\..\..\app\appseed\data\data.vcxproj", "{A33B9D31-3BFE-496C-A4F5-DC3086D5B27F}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "programming", "..\..\..\app\appseed\programming\programming.vcxproj", "{149AA9B9-9E1A-4612-AD64-A71EE357BCAA}"
@@ -836,6 +826,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "axiscairo", "..\..\..\app\axis\cairo\axiscairo.vcxproj", "{E6C58C82-71E5-48E6-98ED-1B505D6F10C2}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "game_tictactoe", "..\..\..\game\appseed\tictactoe\tictactoe.vcxproj", "{876F5728-775F-4D55-8C9B-0F421F3C9919}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "game_tetris", "..\..\..\game\appseed\tetris\tetris.vcxproj", "{84775115-0204-2204-2411-201411249919}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -4159,34 +4151,6 @@ Global
 		{F30BD15A-0EB5-4FA6-88D3-3B4604A41B4E}.static_basis|Win32.Build.0 = basis|Win32
 		{F30BD15A-0EB5-4FA6-88D3-3B4604A41B4E}.static_basis|x64.ActiveCfg = basis|x64
 		{F30BD15A-0EB5-4FA6-88D3-3B4604A41B4E}.static_basis|x64.Build.0 = basis|x64
-		{84775115-0204-2204-2411-201411249919}.basis|Win32.ActiveCfg = basis|Win32
-		{84775115-0204-2204-2411-201411249919}.basis|Win32.Build.0 = basis|Win32
-		{84775115-0204-2204-2411-201411249919}.basis|x64.ActiveCfg = basis|x64
-		{84775115-0204-2204-2411-201411249919}.basis|x64.Build.0 = basis|x64
-		{84775115-0204-2204-2411-201411249919}.codeanalysis|Win32.ActiveCfg = codeanalysis|Win32
-		{84775115-0204-2204-2411-201411249919}.codeanalysis|Win32.Build.0 = codeanalysis|Win32
-		{84775115-0204-2204-2411-201411249919}.codeanalysis|x64.ActiveCfg = codeanalysis|x64
-		{84775115-0204-2204-2411-201411249919}.codeanalysis|x64.Build.0 = codeanalysis|x64
-		{84775115-0204-2204-2411-201411249919}.memdleak|Win32.ActiveCfg = memdleak|Win32
-		{84775115-0204-2204-2411-201411249919}.memdleak|Win32.Build.0 = memdleak|Win32
-		{84775115-0204-2204-2411-201411249919}.memdleak|x64.ActiveCfg = memdleak|x64
-		{84775115-0204-2204-2411-201411249919}.memdleak|x64.Build.0 = memdleak|x64
-		{84775115-0204-2204-2411-201411249919}.no_precompiled_header|Win32.ActiveCfg = no_precompiled_header|Win32
-		{84775115-0204-2204-2411-201411249919}.no_precompiled_header|Win32.Build.0 = no_precompiled_header|Win32
-		{84775115-0204-2204-2411-201411249919}.no_precompiled_header|x64.ActiveCfg = no_precompiled_header|x64
-		{84775115-0204-2204-2411-201411249919}.no_precompiled_header|x64.Build.0 = no_precompiled_header|x64
-		{84775115-0204-2204-2411-201411249919}.profiler|Win32.ActiveCfg = profiler|Win32
-		{84775115-0204-2204-2411-201411249919}.profiler|Win32.Build.0 = profiler|Win32
-		{84775115-0204-2204-2411-201411249919}.profiler|x64.ActiveCfg = profiler|x64
-		{84775115-0204-2204-2411-201411249919}.profiler|x64.Build.0 = profiler|x64
-		{84775115-0204-2204-2411-201411249919}.stage|Win32.ActiveCfg = stage|Win32
-		{84775115-0204-2204-2411-201411249919}.stage|Win32.Build.0 = stage|Win32
-		{84775115-0204-2204-2411-201411249919}.stage|x64.ActiveCfg = stage|x64
-		{84775115-0204-2204-2411-201411249919}.stage|x64.Build.0 = stage|x64
-		{84775115-0204-2204-2411-201411249919}.static_basis|Win32.ActiveCfg = basis|Win32
-		{84775115-0204-2204-2411-201411249919}.static_basis|Win32.Build.0 = basis|Win32
-		{84775115-0204-2204-2411-201411249919}.static_basis|x64.ActiveCfg = basis|x64
-		{84775115-0204-2204-2411-201411249919}.static_basis|x64.Build.0 = basis|x64
 		{A33B9D31-3BFE-496C-A4F5-DC3086D5B27F}.basis|Win32.ActiveCfg = basis|Win32
 		{A33B9D31-3BFE-496C-A4F5-DC3086D5B27F}.basis|Win32.Build.0 = basis|Win32
 		{A33B9D31-3BFE-496C-A4F5-DC3086D5B27F}.basis|x64.ActiveCfg = basis|x64
@@ -5251,6 +5215,34 @@ Global
 		{876F5728-775F-4D55-8C9B-0F421F3C9919}.static_basis|Win32.Build.0 = basis|Win32
 		{876F5728-775F-4D55-8C9B-0F421F3C9919}.static_basis|x64.ActiveCfg = basis|x64
 		{876F5728-775F-4D55-8C9B-0F421F3C9919}.static_basis|x64.Build.0 = basis|x64
+		{84775115-0204-2204-2411-201411249919}.basis|Win32.ActiveCfg = basis|Win32
+		{84775115-0204-2204-2411-201411249919}.basis|Win32.Build.0 = basis|Win32
+		{84775115-0204-2204-2411-201411249919}.basis|x64.ActiveCfg = basis|x64
+		{84775115-0204-2204-2411-201411249919}.basis|x64.Build.0 = basis|x64
+		{84775115-0204-2204-2411-201411249919}.codeanalysis|Win32.ActiveCfg = codeanalysis|Win32
+		{84775115-0204-2204-2411-201411249919}.codeanalysis|Win32.Build.0 = codeanalysis|Win32
+		{84775115-0204-2204-2411-201411249919}.codeanalysis|x64.ActiveCfg = codeanalysis|x64
+		{84775115-0204-2204-2411-201411249919}.codeanalysis|x64.Build.0 = codeanalysis|x64
+		{84775115-0204-2204-2411-201411249919}.memdleak|Win32.ActiveCfg = memdleak|Win32
+		{84775115-0204-2204-2411-201411249919}.memdleak|Win32.Build.0 = memdleak|Win32
+		{84775115-0204-2204-2411-201411249919}.memdleak|x64.ActiveCfg = memdleak|x64
+		{84775115-0204-2204-2411-201411249919}.memdleak|x64.Build.0 = memdleak|x64
+		{84775115-0204-2204-2411-201411249919}.no_precompiled_header|Win32.ActiveCfg = no_precompiled_header|Win32
+		{84775115-0204-2204-2411-201411249919}.no_precompiled_header|Win32.Build.0 = no_precompiled_header|Win32
+		{84775115-0204-2204-2411-201411249919}.no_precompiled_header|x64.ActiveCfg = no_precompiled_header|x64
+		{84775115-0204-2204-2411-201411249919}.no_precompiled_header|x64.Build.0 = no_precompiled_header|x64
+		{84775115-0204-2204-2411-201411249919}.profiler|Win32.ActiveCfg = profiler|Win32
+		{84775115-0204-2204-2411-201411249919}.profiler|Win32.Build.0 = profiler|Win32
+		{84775115-0204-2204-2411-201411249919}.profiler|x64.ActiveCfg = profiler|x64
+		{84775115-0204-2204-2411-201411249919}.profiler|x64.Build.0 = profiler|x64
+		{84775115-0204-2204-2411-201411249919}.stage|Win32.ActiveCfg = stage|Win32
+		{84775115-0204-2204-2411-201411249919}.stage|Win32.Build.0 = stage|Win32
+		{84775115-0204-2204-2411-201411249919}.stage|x64.ActiveCfg = stage|x64
+		{84775115-0204-2204-2411-201411249919}.stage|x64.Build.0 = stage|x64
+		{84775115-0204-2204-2411-201411249919}.static_basis|Win32.ActiveCfg = basis|Win32
+		{84775115-0204-2204-2411-201411249919}.static_basis|Win32.Build.0 = basis|Win32
+		{84775115-0204-2204-2411-201411249919}.static_basis|x64.ActiveCfg = basis|x64
+		{84775115-0204-2204-2411-201411249919}.static_basis|x64.Build.0 = basis|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
