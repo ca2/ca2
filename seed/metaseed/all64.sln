@@ -455,11 +455,13 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "netnode_dynamic_source_library", "..\..\..\app-core\appseed\netnode_dynamic_source_library\netnode_dynamic_source_library.vcxproj", "{5C487247-84EC-479D-A80C-1858F4361C05}"
 	ProjectSection(ProjectDependencies) = postProject
 		{4D7D3626-ADA6-4CA2-9566-ED7B131E3D51} = {4D7D3626-ADA6-4CA2-9566-ED7B131E3D51}
+		{03E5B8E7-9E3B-44DD-9EDE-E0A74D52C1C5} = {03E5B8E7-9E3B-44DD-9EDE-E0A74D52C1C5}
 	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "netnode_dynamic_source_script", "..\..\..\app-core\appseed\netnode_dynamic_source_script\netnode_dynamic_source_script.vcxproj", "{7F80EE33-BA33-4F1D-9EF7-73EB4AC73DCD}"
 	ProjectSection(ProjectDependencies) = postProject
-		{4D7D3626-ADA6-4CA2-9566-ED7B131E3D51} = {4D7D3626-ADA6-4CA2-9566-ED7B131E3D51}
+		{149AA9B9-9E1A-4612-AD64-A71EE357BCAA} = {149AA9B9-9E1A-4612-AD64-A71EE357BCAA}
+		{03E5B8E7-9E3B-44DD-9EDE-E0A74D52C1C5} = {03E5B8E7-9E3B-44DD-9EDE-E0A74D52C1C5}
 	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "app_core_netnode_dynamic_web_server", "..\..\..\app-core\appseed\netnode_dynamic_web_server\netnode_dynamic_web_server.vcxproj", "{A494183C-99B9-46AE-8F24-FB90D97EF51B}"
