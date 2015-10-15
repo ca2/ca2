@@ -870,6 +870,9 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "irc", "..\..\..\app-core\appseed\irc\irc.vcxproj", "{7DA53466-6424-4440-9088-81A4A5874C2B}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "app_core_irc_bot", "..\..\..\app-core\appseed\irc_bot\irc_bot.vcxproj", "{16F0440C-C624-405A-A346-8A8E68E09452}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7DA53466-6424-4440-9088-81A4A5874C2B} = {7DA53466-6424-4440-9088-81A4A5874C2B}
+	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "app_core_irc_client", "..\..\..\app-core\appseed\irc_client\irc_client.vcxproj", "{044790A7-196B-40BA-AE83-587AE3D9F767}"
 EndProject
