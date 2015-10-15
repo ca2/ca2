@@ -809,6 +809,9 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "app.sentinel", "..\..\..\nodeapp\appseed\app.sentinel\app.sentinel.vcxproj", "{46D3B606-0CF7-4F41-9BFB-2CF22FDCEC03}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "axisfreetype", "..\..\..\app\axis\freetype\axisfreetype.vcxproj", "{78B079BD-9FC7-4B9E-B4A6-96DA0F00248B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{84517714-2000-419D-A87F-4338C9DDE3FA} = {84517714-2000-419D-A87F-4338C9DDE3FA}
+	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "game_pacman", "..\..\..\game\appseed\pacman\pacman.vcxproj", "{00C3D7E9-A87D-4B6C-95A0-1202C4703642}"
 	ProjectSection(ProjectDependencies) = postProject
