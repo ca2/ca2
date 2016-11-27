@@ -516,8 +516,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "draw2d_direct2d", "..\..\..
 		{E000FFAF-392F-4E32-BF51-FD7ED638991F} = {E000FFAF-392F-4E32-BF51-FD7ED638991F}
 	EndProjectSection
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mpg123", "..\..\..\app-veriwell\appseed\libmpg123\libmpg123.vcxproj", "{67CAA87B-7CF1-4F93-BB67-21C513F40803}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "base", "..\..\..\app\appseed\base\base.vcxproj", "{4D7D3626-ADA6-4CA2-9566-ED7B131E3D51}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "core", "..\..\..\app\appseed\core\core.vcxproj", "{E000FFAF-392F-4E32-BF51-FD7ED638991F}"
@@ -902,8 +900,6 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "game_coincube", "..\..\..\game\appseed\coincube\coincube.vcxproj", "{F83D4F1E-9A44-4F0E-ABB5-EBC882CD5BB4}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "game_arch001", "..\..\..\game\appseed\arch001\arch001.vcxproj", "{1EB434D5-CB36-4760-AAFF-EA6E69907EFE}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rdpclient", "..\..\..\app\appseed\rdpclient\axisrdpclient.vcxproj", "{B5687C65-F34F-461C-ABE6-5B344977BECF}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "estamira", "..\..\..\app\appseed\estamira\estamira.vcxproj", "{2A6E9644-E659-4F8B-B8A4-DB77461DC071}"
 EndProject
@@ -1457,14 +1453,6 @@ Global
 		{7A9BFF50-1888-4722-8DEE-73A3B5B32BCB}.stage|Win32.Build.0 = stage|Win32
 		{7A9BFF50-1888-4722-8DEE-73A3B5B32BCB}.stage|x64.ActiveCfg = stage|x64
 		{7A9BFF50-1888-4722-8DEE-73A3B5B32BCB}.stage|x64.Build.0 = stage|x64
-		{67CAA87B-7CF1-4F93-BB67-21C513F40803}.basis|Win32.ActiveCfg = basis|Win32
-		{67CAA87B-7CF1-4F93-BB67-21C513F40803}.basis|Win32.Build.0 = basis|Win32
-		{67CAA87B-7CF1-4F93-BB67-21C513F40803}.basis|x64.ActiveCfg = basis|x64
-		{67CAA87B-7CF1-4F93-BB67-21C513F40803}.basis|x64.Build.0 = basis|x64
-		{67CAA87B-7CF1-4F93-BB67-21C513F40803}.stage|Win32.ActiveCfg = stage|Win32
-		{67CAA87B-7CF1-4F93-BB67-21C513F40803}.stage|Win32.Build.0 = stage|Win32
-		{67CAA87B-7CF1-4F93-BB67-21C513F40803}.stage|x64.ActiveCfg = stage|x64
-		{67CAA87B-7CF1-4F93-BB67-21C513F40803}.stage|x64.Build.0 = stage|x64
 		{4D7D3626-ADA6-4CA2-9566-ED7B131E3D51}.basis|Win32.ActiveCfg = basis|Win32
 		{4D7D3626-ADA6-4CA2-9566-ED7B131E3D51}.basis|Win32.Build.0 = basis|Win32
 		{4D7D3626-ADA6-4CA2-9566-ED7B131E3D51}.basis|x64.ActiveCfg = basis|x64
@@ -2153,14 +2141,6 @@ Global
 		{1EB434D5-CB36-4760-AAFF-EA6E69907EFE}.stage|Win32.Build.0 = stage|Win32
 		{1EB434D5-CB36-4760-AAFF-EA6E69907EFE}.stage|x64.ActiveCfg = stage|x64
 		{1EB434D5-CB36-4760-AAFF-EA6E69907EFE}.stage|x64.Build.0 = stage|x64
-		{B5687C65-F34F-461C-ABE6-5B344977BECF}.basis|Win32.ActiveCfg = basis|Win32
-		{B5687C65-F34F-461C-ABE6-5B344977BECF}.basis|Win32.Build.0 = basis|Win32
-		{B5687C65-F34F-461C-ABE6-5B344977BECF}.basis|x64.ActiveCfg = basis|x64
-		{B5687C65-F34F-461C-ABE6-5B344977BECF}.basis|x64.Build.0 = basis|x64
-		{B5687C65-F34F-461C-ABE6-5B344977BECF}.stage|Win32.ActiveCfg = stage|Win32
-		{B5687C65-F34F-461C-ABE6-5B344977BECF}.stage|Win32.Build.0 = stage|Win32
-		{B5687C65-F34F-461C-ABE6-5B344977BECF}.stage|x64.ActiveCfg = stage|x64
-		{B5687C65-F34F-461C-ABE6-5B344977BECF}.stage|x64.Build.0 = stage|x64
 		{2A6E9644-E659-4F8B-B8A4-DB77461DC071}.basis|Win32.ActiveCfg = basis|Win32
 		{2A6E9644-E659-4F8B-B8A4-DB77461DC071}.basis|Win32.Build.0 = basis|Win32
 		{2A6E9644-E659-4F8B-B8A4-DB77461DC071}.basis|x64.ActiveCfg = basis|x64
