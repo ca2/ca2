@@ -581,8 +581,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "resident_mixercom", "..\..\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "app._", "..\..\..\nodeapp\appseed\app._\app._.vcxproj", "{11AFE887-61B7-4217-913C-36736B359F39}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "app_app_install", "..\..\..\nodeapp\appseed\app_app_install\app_app_install.vcxproj", "{6F512EFE-4B04-4565-80BF-B9AA396D6E72}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "app_app_nest", "..\..\..\nodeapp\appseed\app_app_nest\app_app_nest.vcxproj", "{5CE97671-BDA4-4AF1-BA62-D0805C2A1749}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "app_app_remove", "..\..\..\nodeapp\appseed\app_app_remove\app_app_remove.vcxproj", "{ADA7E5B7-AAB1-434B-B4D2-7A77572B5BC5}"
@@ -2531,18 +2529,6 @@ Global
 		{11AFE887-61B7-4217-913C-36736B359F39}.stage|Win32.Build.0 = stage|Win32
 		{11AFE887-61B7-4217-913C-36736B359F39}.stage|x64.ActiveCfg = stage|x64
 		{11AFE887-61B7-4217-913C-36736B359F39}.stage|x64.Build.0 = stage|x64
-		{6F512EFE-4B04-4565-80BF-B9AA396D6E72}.basis|Win32.ActiveCfg = basis|Win32
-		{6F512EFE-4B04-4565-80BF-B9AA396D6E72}.basis|Win32.Build.0 = basis|Win32
-		{6F512EFE-4B04-4565-80BF-B9AA396D6E72}.basis|x64.ActiveCfg = basis|x64
-		{6F512EFE-4B04-4565-80BF-B9AA396D6E72}.basis|x64.Build.0 = basis|x64
-		{6F512EFE-4B04-4565-80BF-B9AA396D6E72}.cover|Win32.ActiveCfg = cover|Win32
-		{6F512EFE-4B04-4565-80BF-B9AA396D6E72}.cover|Win32.Build.0 = cover|Win32
-		{6F512EFE-4B04-4565-80BF-B9AA396D6E72}.cover|x64.ActiveCfg = cover|x64
-		{6F512EFE-4B04-4565-80BF-B9AA396D6E72}.cover|x64.Build.0 = cover|x64
-		{6F512EFE-4B04-4565-80BF-B9AA396D6E72}.stage|Win32.ActiveCfg = stage|Win32
-		{6F512EFE-4B04-4565-80BF-B9AA396D6E72}.stage|Win32.Build.0 = stage|Win32
-		{6F512EFE-4B04-4565-80BF-B9AA396D6E72}.stage|x64.ActiveCfg = stage|x64
-		{6F512EFE-4B04-4565-80BF-B9AA396D6E72}.stage|x64.Build.0 = stage|x64
 		{5CE97671-BDA4-4AF1-BA62-D0805C2A1749}.basis|Win32.ActiveCfg = basis|Win32
 		{5CE97671-BDA4-4AF1-BA62-D0805C2A1749}.basis|Win32.Build.0 = basis|Win32
 		{5CE97671-BDA4-4AF1-BA62-D0805C2A1749}.basis|x64.ActiveCfg = basis|x64
