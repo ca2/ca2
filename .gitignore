@@ -1,0 +1,10 @@
+**/.vs
+**/.DS_Store
+.DS_Store
+._.DS_Store
+*.suo
+*.ipch
+*.psess
+*.vspx
+browse.vc.db
+solution.vc.db*
