@@ -561,6 +561,16 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "app_core_hash_hub", "..\..\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wndfrm_core", "..\..\..\app\appseed\wndfrm_core\wndfrm_core.vcxproj", "{E2D7833B-9B59-4826-BBDF-C270A2115E86}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "library", "..\..\..\app-core\appseed\library\library.vcxproj", "{FB12B2C5-ED60-406B-A2BB-A6D45391797B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "app_core_store", "..\..\..\app-core\appseed\store\store.vcxproj", "{4A46F656-6A89-4779-B30A-5B0DE7D3F018}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "app_core_installer", "..\..\..\app-core\appseed\installer\installer.vcxproj", "{396EAFAC-6ED5-49B5-8B62-6C412D8C2E2F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wndfrm_anthill", "..\..\..\app\appseed\wndfrm_anthill\wndfrm_anthill.vcxproj", "{0BB1A1D1-7B7D-4484-9DF5-060481390526}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wndfrm_tranquillum", "..\..\..\app\appseed\wndfrm_tranquillum\wndfrm_tranquillum.vcxproj", "{3C892817-9F8B-493C-A3E1-AAC25943A7F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		basis|Win32 = basis|Win32
@@ -2493,6 +2503,66 @@ Global
 		{E2D7833B-9B59-4826-BBDF-C270A2115E86}.stage|Win32.Build.0 = stage|Win32
 		{E2D7833B-9B59-4826-BBDF-C270A2115E86}.stage|x64.ActiveCfg = stage|x64
 		{E2D7833B-9B59-4826-BBDF-C270A2115E86}.stage|x64.Build.0 = stage|x64
+		{FB12B2C5-ED60-406B-A2BB-A6D45391797B}.basis|Win32.ActiveCfg = basis|Win32
+		{FB12B2C5-ED60-406B-A2BB-A6D45391797B}.basis|Win32.Build.0 = basis|Win32
+		{FB12B2C5-ED60-406B-A2BB-A6D45391797B}.basis|x64.ActiveCfg = basis|x64
+		{FB12B2C5-ED60-406B-A2BB-A6D45391797B}.basis|x64.Build.0 = basis|x64
+		{FB12B2C5-ED60-406B-A2BB-A6D45391797B}.cover|Win32.ActiveCfg = cover|Win32
+		{FB12B2C5-ED60-406B-A2BB-A6D45391797B}.cover|Win32.Build.0 = cover|Win32
+		{FB12B2C5-ED60-406B-A2BB-A6D45391797B}.cover|x64.ActiveCfg = cover|x64
+		{FB12B2C5-ED60-406B-A2BB-A6D45391797B}.cover|x64.Build.0 = cover|x64
+		{FB12B2C5-ED60-406B-A2BB-A6D45391797B}.stage|Win32.ActiveCfg = stage|Win32
+		{FB12B2C5-ED60-406B-A2BB-A6D45391797B}.stage|Win32.Build.0 = stage|Win32
+		{FB12B2C5-ED60-406B-A2BB-A6D45391797B}.stage|x64.ActiveCfg = stage|x64
+		{FB12B2C5-ED60-406B-A2BB-A6D45391797B}.stage|x64.Build.0 = stage|x64
+		{4A46F656-6A89-4779-B30A-5B0DE7D3F018}.basis|Win32.ActiveCfg = basis|Win32
+		{4A46F656-6A89-4779-B30A-5B0DE7D3F018}.basis|Win32.Build.0 = basis|Win32
+		{4A46F656-6A89-4779-B30A-5B0DE7D3F018}.basis|x64.ActiveCfg = basis|x64
+		{4A46F656-6A89-4779-B30A-5B0DE7D3F018}.basis|x64.Build.0 = basis|x64
+		{4A46F656-6A89-4779-B30A-5B0DE7D3F018}.cover|Win32.ActiveCfg = cover|Win32
+		{4A46F656-6A89-4779-B30A-5B0DE7D3F018}.cover|Win32.Build.0 = cover|Win32
+		{4A46F656-6A89-4779-B30A-5B0DE7D3F018}.cover|x64.ActiveCfg = cover|x64
+		{4A46F656-6A89-4779-B30A-5B0DE7D3F018}.cover|x64.Build.0 = cover|x64
+		{4A46F656-6A89-4779-B30A-5B0DE7D3F018}.stage|Win32.ActiveCfg = stage|Win32
+		{4A46F656-6A89-4779-B30A-5B0DE7D3F018}.stage|Win32.Build.0 = stage|Win32
+		{4A46F656-6A89-4779-B30A-5B0DE7D3F018}.stage|x64.ActiveCfg = stage|x64
+		{4A46F656-6A89-4779-B30A-5B0DE7D3F018}.stage|x64.Build.0 = stage|x64
+		{396EAFAC-6ED5-49B5-8B62-6C412D8C2E2F}.basis|Win32.ActiveCfg = basis|Win32
+		{396EAFAC-6ED5-49B5-8B62-6C412D8C2E2F}.basis|Win32.Build.0 = basis|Win32
+		{396EAFAC-6ED5-49B5-8B62-6C412D8C2E2F}.basis|x64.ActiveCfg = basis|x64
+		{396EAFAC-6ED5-49B5-8B62-6C412D8C2E2F}.basis|x64.Build.0 = basis|x64
+		{396EAFAC-6ED5-49B5-8B62-6C412D8C2E2F}.cover|Win32.ActiveCfg = cover|Win32
+		{396EAFAC-6ED5-49B5-8B62-6C412D8C2E2F}.cover|Win32.Build.0 = cover|Win32
+		{396EAFAC-6ED5-49B5-8B62-6C412D8C2E2F}.cover|x64.ActiveCfg = cover|x64
+		{396EAFAC-6ED5-49B5-8B62-6C412D8C2E2F}.cover|x64.Build.0 = cover|x64
+		{396EAFAC-6ED5-49B5-8B62-6C412D8C2E2F}.stage|Win32.ActiveCfg = stage|Win32
+		{396EAFAC-6ED5-49B5-8B62-6C412D8C2E2F}.stage|Win32.Build.0 = stage|Win32
+		{396EAFAC-6ED5-49B5-8B62-6C412D8C2E2F}.stage|x64.ActiveCfg = stage|x64
+		{396EAFAC-6ED5-49B5-8B62-6C412D8C2E2F}.stage|x64.Build.0 = stage|x64
+		{0BB1A1D1-7B7D-4484-9DF5-060481390526}.basis|Win32.ActiveCfg = basis|Win32
+		{0BB1A1D1-7B7D-4484-9DF5-060481390526}.basis|Win32.Build.0 = basis|Win32
+		{0BB1A1D1-7B7D-4484-9DF5-060481390526}.basis|x64.ActiveCfg = basis|x64
+		{0BB1A1D1-7B7D-4484-9DF5-060481390526}.basis|x64.Build.0 = basis|x64
+		{0BB1A1D1-7B7D-4484-9DF5-060481390526}.cover|Win32.ActiveCfg = cover|Win32
+		{0BB1A1D1-7B7D-4484-9DF5-060481390526}.cover|Win32.Build.0 = cover|Win32
+		{0BB1A1D1-7B7D-4484-9DF5-060481390526}.cover|x64.ActiveCfg = cover|x64
+		{0BB1A1D1-7B7D-4484-9DF5-060481390526}.cover|x64.Build.0 = cover|x64
+		{0BB1A1D1-7B7D-4484-9DF5-060481390526}.stage|Win32.ActiveCfg = stage|Win32
+		{0BB1A1D1-7B7D-4484-9DF5-060481390526}.stage|Win32.Build.0 = stage|Win32
+		{0BB1A1D1-7B7D-4484-9DF5-060481390526}.stage|x64.ActiveCfg = stage|x64
+		{0BB1A1D1-7B7D-4484-9DF5-060481390526}.stage|x64.Build.0 = stage|x64
+		{3C892817-9F8B-493C-A3E1-AAC25943A7F9}.basis|Win32.ActiveCfg = basis|Win32
+		{3C892817-9F8B-493C-A3E1-AAC25943A7F9}.basis|Win32.Build.0 = basis|Win32
+		{3C892817-9F8B-493C-A3E1-AAC25943A7F9}.basis|x64.ActiveCfg = basis|x64
+		{3C892817-9F8B-493C-A3E1-AAC25943A7F9}.basis|x64.Build.0 = basis|x64
+		{3C892817-9F8B-493C-A3E1-AAC25943A7F9}.cover|Win32.ActiveCfg = cover|Win32
+		{3C892817-9F8B-493C-A3E1-AAC25943A7F9}.cover|Win32.Build.0 = cover|Win32
+		{3C892817-9F8B-493C-A3E1-AAC25943A7F9}.cover|x64.ActiveCfg = cover|x64
+		{3C892817-9F8B-493C-A3E1-AAC25943A7F9}.cover|x64.Build.0 = cover|x64
+		{3C892817-9F8B-493C-A3E1-AAC25943A7F9}.stage|Win32.ActiveCfg = stage|Win32
+		{3C892817-9F8B-493C-A3E1-AAC25943A7F9}.stage|Win32.Build.0 = stage|Win32
+		{3C892817-9F8B-493C-A3E1-AAC25943A7F9}.stage|x64.ActiveCfg = stage|x64
+		{3C892817-9F8B-493C-A3E1-AAC25943A7F9}.stage|x64.Build.0 = stage|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
