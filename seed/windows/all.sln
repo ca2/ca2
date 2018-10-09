@@ -739,6 +739,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wndfrm_anthill", "..\..\..\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wndfrm_tranquillum", "..\..\..\app\appseed\wndfrm_tranquillum\wndfrm_tranquillum.vcxproj", "{3C892817-9F8B-493C-A3E1-AAC25943A7F9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "_desk_tb", "..\..\..\app-core\appseed\desk_tb\desk_tb.vcxproj", "{19518477-1511-2204-0204-5872E30F2300}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		basis|Win32 = basis|Win32
@@ -2670,6 +2672,18 @@ Global
 		{3C892817-9F8B-493C-A3E1-AAC25943A7F9}.stage|Win32.Build.0 = stage|Win32
 		{3C892817-9F8B-493C-A3E1-AAC25943A7F9}.stage|x64.ActiveCfg = stage|x64
 		{3C892817-9F8B-493C-A3E1-AAC25943A7F9}.stage|x64.Build.0 = stage|x64
+		{19518477-1511-2204-0204-5872E30F2300}.basis|Win32.ActiveCfg = basis|Win32
+		{19518477-1511-2204-0204-5872E30F2300}.basis|Win32.Build.0 = basis|Win32
+		{19518477-1511-2204-0204-5872E30F2300}.basis|x64.ActiveCfg = basis|x64
+		{19518477-1511-2204-0204-5872E30F2300}.basis|x64.Build.0 = basis|x64
+		{19518477-1511-2204-0204-5872E30F2300}.cover|Win32.ActiveCfg = cover|Win32
+		{19518477-1511-2204-0204-5872E30F2300}.cover|Win32.Build.0 = cover|Win32
+		{19518477-1511-2204-0204-5872E30F2300}.cover|x64.ActiveCfg = cover|x64
+		{19518477-1511-2204-0204-5872E30F2300}.cover|x64.Build.0 = cover|x64
+		{19518477-1511-2204-0204-5872E30F2300}.stage|Win32.ActiveCfg = stage|Win32
+		{19518477-1511-2204-0204-5872E30F2300}.stage|Win32.Build.0 = stage|Win32
+		{19518477-1511-2204-0204-5872E30F2300}.stage|x64.ActiveCfg = stage|x64
+		{19518477-1511-2204-0204-5872E30F2300}.stage|x64.Build.0 = stage|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
