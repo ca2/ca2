@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ca2 framework!!
+- 🔭 I’m currently streaming me working on ca2 framework!!
+
+🌌 🌍 ca2/C++: Stabilization at Ubuntu/Stabilization at Windows Desktop
+
+https://www.twitch.tv/ca2software
