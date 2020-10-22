@@ -2,4 +2,4 @@
 
 ### Windows
 
-https://ca2.io/windows
+https://ca2.io/windows/
