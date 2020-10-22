@@ -1,5 +1,5 @@
-How to build ca2 Framework?
+## How to build ca2 Framework?
 
-Windows
+### Windows
 
 https://ca2.io/windows
