@@ -1,4 +1,4 @@
-# 🌌 🌍 ca2/C++: Creating stage (Release) and basis (Debug/Development) branches!!
+# 🌌 🌍 ca2/C++/Linux: Stabilization at Manjaro/Ubuntu!!
 
 ## How to build ca2 Framework?
 
@@ -6,8 +6,13 @@
 
 https://ca2.io/windows/
 
+### Ubuntu
 
+To be written...
 
+### Manjaro
+
+To be written...
 
 
 
