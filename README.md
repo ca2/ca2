@@ -1,3 +1,5 @@
+# 🌌 🌍 ca2/C++: Creating stage (Release) and basis (Debug/Development) branches!!
+
 ## How to build ca2 Framework?
 
 ### Windows
