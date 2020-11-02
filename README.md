@@ -28,5 +28,9 @@ File/Streamable: ca2-like way
 
 Utilities: property sets, json, xml
 
+Some example/flagship application: veriwell Musical Player (Karaoke Player), Waven Player (Audio/Music Player), netnode lite (C++ webserver with DS - dynamic source - backend scripting)
+
+Dynamic source scripting: PHP like variables within C++ code. Every dynamic page is a .cpp file compiled and linked as shared library (.dll, .so, .dylib), that can be built ahead and can employ ca2 framework C++ components.
+
 
 
