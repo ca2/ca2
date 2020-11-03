@@ -1,4 +1,4 @@
-# 🌌 🌍 ca2/C++/Linux: Stabilization at Manjaro/Ubuntu!!
+# 🌌 🌍 ca2/C++/Linux: Stabilization at UWP - Universal Windows Platform!!
 
 ## How to build ca2 Framework?
 
